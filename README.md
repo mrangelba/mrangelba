@@ -9,6 +9,7 @@
 
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2490D7)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2490D7)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=2490D7)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2490D7)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2490D7)
 ![](https://img.shields.io/badge/Code-Delphi-informational?style=flat&logo=delphi&logoColor=white&color=2490D7)
@@ -25,3 +26,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2490D7)
 ![](https://img.shields.io/badge/CI/CD-CodeMagic-informational?style=flat&logo=codemagic&logoColor=white&color=2490D7)
 ![](https://img.shields.io/badge/CI/CD-Azure%20Pipelines-informational?style=flat&logo=azurepipelines&logoColor=white&color=2490D7)
+![](https://img.shields.io/badge/Google-Cloud?style=flat&logo=azurepipelines&logoColor=white&color=2490D7)
+![](https://img.shields.io/badge/Cloud-Google%20Cloud?style=flat&logo=googlecloud&logoColor=white&color=2490D7)
+![](https://img.shields.io/badge/Cloud-AWS%20Cloud?style=flat&logo=amazonaws&logoColor=white&color=2490D7)
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
